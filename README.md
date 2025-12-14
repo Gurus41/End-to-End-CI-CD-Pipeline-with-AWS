@@ -78,4 +78,3 @@ This project is for educational purposes. Please check individual tool licenses 
 
 Happy learning! If you get stuck, don't hesitate to ask questions or refer to the official documentation. Remember, DevOps is about continuous improvement – keep experimenting and learning! 🎉
 
-3. **EKS cluster creation fails**:
